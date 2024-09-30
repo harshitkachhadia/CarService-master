@@ -1,8 +1,8 @@
 ### CarService-master
 CarService-master provides a comprehensive platform for vehicle maintenance and repair needs. Users can schedule appointments, explore service packages, and receive expert advice on automotive care. With a focus on convenience and quality, our website aims to enhance the longevity and performance of every vehicle serviced.
 
-
-
+### Technologies : 
+HTML, CSS, BOOTSTARP, JAVASCRIPT, REACTJS
 
 
 # Getting Started with Create React App
